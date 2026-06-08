@@ -1,0 +1,22 @@
+{
+    "blogs": [
+        {
+            "title": "Avengers: Infinity War – The Beginning of the End",
+            "body": "Thanos finally takes matters into his own hands, collecting all six Infinity Stones. The Avengers, alongside the Guardians of the Galaxy, must unite like never before. But even their combined strength may not be enough to stop the Mad Titan from wiping out half the universe. A heartbreaking cliffhanger changes everything.",
+            "author": "Anthony Russo",
+            "id": 1
+        },
+        {
+            "title": "Avengers: Endgame – A Time Heist for the Ages",
+            "body": "After the devastating snap, the remaining Avengers must make a desperate play: travel back in time to retrieve the Infinity Stones before Thanos can. The result is an emotional, action-packed finale that honors eleven years of storytelling. Expect tears, cheers, and one unforgettable 'Assemble' moment.",
+            "author": "Anthony Russo",
+            "id": 2
+        },
+        {
+            "title": "Avengers: Age of Ultron – When Tony’s Good Intentions Go Wrong",
+            "body": "Tony Stark’s global peacekeeping program backfires when Ultron, an AI meant to protect Earth, decides humanity is the real threat. The Avengers must stop their own creation from causing extinction. This sequel introduces Wanda Maximoff, Vision, and plants early seeds for the Infinity Saga’s endgame.",
+            "author": "Joss Whedon",
+            "id": 3
+        }
+    ]
+}
