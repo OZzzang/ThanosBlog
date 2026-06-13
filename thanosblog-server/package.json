@@ -1,0 +1,11 @@
+{
+  "name": "thanosblog-server",
+  "version": "1.0.0",
+  "main": "thanosblog-server.js",
+  "scripts": {
+    "start": "node thanosblog-server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
